@@ -1106,6 +1106,14 @@
     mixi: 13683140
     github: tenderlove
     google: 117847179642773850013
+- account: tmm1
+  name:
+    - Aman Gupta
+  portraits:
+    - 'http://github.com/tmm1.png'
+  services:
+    twitter: tmm1
+    github: tmm1
 - account: ts
   name:
     - Guy Decoux
